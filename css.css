@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: Verdana,sans-serif;
+}
+
+th{
+    background-color: #37b8e9;
+    color: white;
+    border-right: 1px solid  #2d95bc;
+    text-align: left;
+    padding:10px 10px ;
+}
+th:last-child{
+    border-right: none;
+}
+td{
+    color: grey;
+    background-color: #D9ECF4;
+    text-align: center;
+    padding:10px 10px ;
+}
