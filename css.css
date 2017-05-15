@@ -19,4 +19,34 @@ td{
     background-color: #D9ECF4;
     text-align: center;
     padding:10px 10px ;
+
+}
+.table2{
+    text-align: center;
+    width:200px;
+    margin:50px 0;
+}
+.table2 th{
+    text-align: center;
+    background-color: #283B4D;
+    color: #8996a1;
+
+}
+.table2 td{
+    color: grey;
+    border-bottom: 1px solid #f6f6f6;
+}
+.table2 .blue td{
+    background-color: #37b8e9;
+    color: white;
+    border-bottom: none;
+}
+.colo{
+    width:80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin:10px auto;
+    padding-top: 20px;
+    box-sizing: border-box;
 }
