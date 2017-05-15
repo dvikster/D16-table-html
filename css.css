@@ -25,16 +25,20 @@ td{
     text-align: center;
     width:200px;
     margin:50px 0;
+    border: 1px solid #f6f6f6;
+
 }
 .table2 th{
     text-align: center;
     background-color: #283B4D;
     color: #8996a1;
 
+
 }
 .table2 td{
     color: grey;
     border-bottom: 1px solid #f6f6f6;
+    background-color: white;
 }
 .table2 .blue td{
     background-color: #37b8e9;
